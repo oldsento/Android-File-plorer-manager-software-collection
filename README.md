@@ -1,4 +1,4 @@
-[img]https://hitscounter.dev/api/hit?url=https://github.com/oldsento/Android-File-plorer-manager-software-collection&label=&icon=eye&color=%2380cbc4&message=&style=flat&tz=GMT[/img]
+![img](https://hitscounter.dev/api/hit?url=https://github.com/oldsento/Android-File-plorer-manager-software-collection&label=&icon=eye&color=%2380cbc4&message=&style=flat&tz=GMT)
 
 讨论帖：
 
