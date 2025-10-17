@@ -13,7 +13,9 @@ https://meta.appinn.net/t/topic/75785
 6. https://github.com/PowerExplorer/PowerFileExplorer
 7. https://github.com/TeamAmaze/AmazeFileManager
 8. https://github.com/kimikan/QuickFiles
-9.
+9. https://github.com/gigabytedevelopers/FireFiles 貌似基于下面的
+10. https://github.com/1hakr/AnExplorer
+11. 
 
 支持国内部分网盘的文件管理器：
 1. ES文件管理器，百度
