@@ -1,3 +1,5 @@
+[img]https://hitscounter.dev/api/hit?url=https://github.com/oldsento/Android-File-plorer-manager-software-collection&label=&icon=eye&color=%2380cbc4&message=&style=flat&tz=GMT[/img]
+
 讨论帖：
 
 https://chii.in/group/topic/439657
