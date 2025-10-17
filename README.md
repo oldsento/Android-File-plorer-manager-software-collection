@@ -7,7 +7,7 @@ https://meta.appinn.net/t/topic/75785
 
 1. https://github.com/zhanghai/MaterialFiles
 2. https://github.com/Rve27/RvFiles 基于质感文件
-3. https://github.com/lingyicute/StarryFiles 同上，和质感文件管理器(1.)一样
+3. https://github.com/lingyicute/StarryFiles 质感文件管理器(1.)一样
 4. https://github.com/Raival-e/Prism-File-Explorer
 5. https://github.com/warren-bank/mirror-Android-Ghost-Commander
 6. https://github.com/PowerExplorer/PowerFileExplorer
